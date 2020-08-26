@@ -1,0 +1,5 @@
+.container {
+  flex-direction: column;
+  margin: 0.5rem; }
+  .container .img {
+    padding-top: 5rem; }
